@@ -6,6 +6,6 @@
 
 Gist about me:-
 
-- 🔭 I’m currently working on my coding skills
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me: https://www.linkedin.com/in/pravleen-kaur-031a02192/
+- 🔭 I’m currently working on my coding skills</br>
+- 🌱 I’m currently learning Machine Learning</br>
+- 📫 How to reach me: https://www.linkedin.com/in/pravleen-kaur-031a02192/ </br>
